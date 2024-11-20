@@ -1,0 +1,1 @@
+Automate repetitive and critical IT tasks related to user management, such as creation, modification, and deletion in platforms such as Active Directory, Azure AD, and GitHub, by using efficient and secure scripts.
