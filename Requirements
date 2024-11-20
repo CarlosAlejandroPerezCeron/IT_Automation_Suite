@@ -1,0 +1,10 @@
+Before you begin, make sure you have the following:
+
+Basic programming knowledge in Python or PowerShell.
+Administrator access to Active Directory, Azure AD, and GitHub.
+Required tools:
+Python 3.x and required libraries.
+Azure CLI installed and configured.
+GitHub CLI installed.
+RSAT (Remote Server Administration Tools) for Active Directory if you're working in a Windows environment.
+PowerShell with modules such as ActiveDirectory and AzureAD.
