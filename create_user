@@ -1,0 +1,13 @@
+import subprocess
+
+def invite_github_user(email, role="member"):
+    command = [
+        "gh", "org", "invite",
+        email,
+        "--role", role
+    ]
+    subprocess.run(command)
+    print(f"Invitación enviada a {email} con rol {role}.")
+
+# Ejemplo de uso
+invite_github_user("jdoe@example.com", "admin")
